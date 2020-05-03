@@ -11,9 +11,10 @@ Linguagens e tecnologias utilizadas no projeto:
 <li>CSS</li>
 </ul>
 
+<hr>
 <p align="center">
-  <img src=""/>
+  <img src="https://github.com/ChristopherHauschild/projeto-calculador-react/blob/master/calculator.PNG?raw=true"/>
 </p>
-
+<hr>
 
 O repositório das atividades desenvolvidas no curso pode ser acessado <a href="https://github.com/ChristopherHauschild/curso-web-moderno-cod3r">aqui</a>
