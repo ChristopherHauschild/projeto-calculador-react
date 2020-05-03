@@ -5,7 +5,7 @@ Projeto desenvolvido durante o curso de Curso Web Moderno com JavaScript + Proje
 Linguagens e tecnologias utilizadas no projeto:
 
 <ul>
-<li>Vue.js</li>
+<li>React</li>
 <li>JavaScript</li>
 <li>HTML</li>
 <li>CSS</li>
